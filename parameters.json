@@ -1,0 +1,150 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "connections_office365_name": {
+            "value": null
+        },
+        "connections_virustotal_name": {
+            "value": null
+        },
+        "connections_office365_1_name": {
+            "value": null
+        },
+        "connections_office365_2_name": {
+            "value": null
+        },
+        "connections_azuresentinel_name": {
+            "value": null
+        },
+        "virtualMachines_Windows_name": {
+            "value": null
+        },
+        "workflows_Send_basic_email_name": {
+            "value": null
+        },
+        "connections_azuremonitorlogs_name": {
+            "value": null
+        },
+        "workflows_ShiftEmailPlaybook_name": {
+            "value": null
+        },
+        "workflows_Test_Email_playbook_name": {
+            "value": null
+        },
+        "virtualMachines_LinuxMachine_name": {
+            "value": null
+        },
+        "dataCollectionRules_Winlogs_name": {
+            "value": null
+        },
+        "publicIPAddresses_Windows_ip_name": {
+            "value": null
+        },
+        "virtualMachines_CEF_Collector_name": {
+            "value": null
+        },
+        "workflows_Get_AlienVault_OTX_V2_name": {
+            "value": null
+        },
+        "connections_o365_Send_basic_email_name": {
+            "value": null
+        },
+        "workflows_Block_AADUser_Incident_name": {
+            "value": null
+        },
+        "workflows_IncidentEmail_Playbook_name": {
+            "value": null
+        },
+        "networkInterfaces_windows742_z1_name": {
+            "value": null
+        },
+        "connections_azuresentinel_test_email_name": {
+            "value": null
+        },
+        "networkSecurityGroups_Windows_nsg_name": {
+            "value": null
+        },
+        "publicIPAddresses_LinuxMachine_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_LinuxMachine_vnet_name": {
+            "value": null
+        },
+        "virtualNetworks_SyslogServer_vnet_name": {
+            "value": null
+        },
+        "networkInterfaces_cef_collector893_name": {
+            "value": null
+        },
+        "publicIPAddresses_CEF_Collector_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_linuxmachine293_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_LinuxMachine_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_SyslogServer_nsg_name": {
+            "value": null
+        },
+        "workspaces_UsamaSaleem_LAW_name": {
+            "value": null
+        },
+        "connections_azuread_Block_AADUser_Incident_name": {
+            "value": null
+        },
+        "connections_azuresentinel_Send_basic_email_name": {
+            "value": null
+        },
+        "networkSecurityGroups_CEF_Collector_nsg_name": {
+            "value": null
+        },
+        "connections_azuresentinel_ShiftEmailPlaybook_name": {
+            "value": null
+        },
+        "connections_office365_Block_AADUser_Incident_name": {
+            "value": null
+        },
+        "connections_azuresentinel_Test_Email_playbook_name": {
+            "value": null
+        },
+        "workflows_SendDailyIncidentNotificationEmail_name": {
+            "value": null
+        },
+        "workflows_Get_VirusTotalIPReport_EntityTrigger_name": {
+            "value": null
+        },
+        "connections_azuresentinel_IncidentEmail_Playbook_name": {
+            "value": null
+        },
+        "workspaces_UsamaSaleem_LAW_Parsers_name": {
+            "value": null
+        },
+        "connections_microsoftsentinel_Block_AADUser_Incident_name": {
+            "value": null
+        },
+        "solutions_DnsAnalytics_UsamaSaleem_LAW__name": {
+            "value": null
+        },
+        "connections_office365_SendDailyIncidentNotificationEmail_name": {
+            "value": null
+        },
+        "connections_virustotal_Get_VirusTotalIPReport_EntityTrigger_name": {
+            "value": null
+        },
+        "solutions_SecurityInsights_usamasaleem_law__name": {
+            "value": null
+        },
+        "connections_azuremonitorlogs_SendDailyIncidentNotificationEmail_name": {
+            "value": null
+        },
+        "connections_microsoftsentinel_Get_VirusTotalIPReport_EntityTrigger_name": {
+            "value": null
+        },
+        "dataCollectionRules_1bdf2472_e6ba_44c5_a0b4_022609817f0d_ms_sentinel_asimdnsactivity_name": {
+            "value": null
+        }
+    }
+}
